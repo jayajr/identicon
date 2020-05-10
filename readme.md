@@ -12,5 +12,5 @@ js usage
 const Identicon = require('./Identicon');
 
 const identicon = new Identicon('Jerome');
-// new identicon is saved as 'jerome.png'
+// new identicon is saved as 'Jerome.png'
 ```
